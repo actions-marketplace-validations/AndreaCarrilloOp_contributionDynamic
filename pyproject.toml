@@ -20,7 +20,7 @@ Issues = "https://github.com/AndreaCarrilloOp/contributionDynamic/issues"
 contribution-dynamic = "contribution_dynamic.cli:main"
 
 [project.optional-dependencies]
-dev = ["pytest==9.2.0", "ruff==0.17.5", "coverage==7.17.3"]
+dev = ["pytest==9.2.0", "ruff==0.17.6", "coverage==7.17.4"]
 visual = ["playwright==1.65.2"]
 
 [tool.setuptools.packages.find]
